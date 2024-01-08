@@ -20,6 +20,7 @@ This is a simple React-based Shopping Cart application with basic functionalitie
 - Remove items from the cart
 - View total price
 - Responsive design
+- Used local storage for a better experience.
 
 ## Getting Started
 
@@ -43,7 +44,6 @@ This is a simple React-based Shopping Cart application with basic functionalitie
 - React
 - Tailwind CSS
 - Framer Motion
-- (Add other technologies if applicable)
 
 ## Contributing
 
