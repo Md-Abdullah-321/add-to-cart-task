@@ -1,9 +1,56 @@
-# React + Vite
+# Shopping Cart App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React-based Shopping Cart application with basic functionalities.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# add-to-cart-task
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Features
+
+- Add items to the cart
+- Increment and decrement item quantities
+- Remove items from the cart
+- View total price
+- Responsive design
+
+## Getting Started
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/shopping-cart-app.git
+
+2. Install dependencies:
+    ```bash
+    npm install
+4. Run the development server
+    ```bash
+   npm start
+
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Framer Motion
+- (Add other technologies if applicable)
+
+## Contributing
+
+If you'd like to contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to your fork and submit a pull request.
+
